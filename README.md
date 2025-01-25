@@ -36,8 +36,7 @@ Frameworks	PyTorch, OpenAI, TensorFlow, LangChain, HuggingFace, LangGraph
 Databases	Pinecone, ChromaDB, Faiss
 Utilities	Git
 🌍 Let's Connect
-💼 LinkedIn: Your LinkedIn Profile
-🐦 Twitter: @YourHandle
-📫 Email: YourEmail@example.com
+💼 LinkedIn: https://www.linkedin.com/in/mohammad-unaib/
+📫 Email: unaibk07@gmail.com
 
 ✨ "Transforming Ideas into Reality with Generative AI."
